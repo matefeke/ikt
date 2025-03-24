@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(2, 56, 148);
+}
+
+h1 {
+    text-align: center;
+}
+img {
+    width: 300px;
+    margin: 30px;
+    border: 5px solid rgb(25, 94, 163);
+    border-radius: 15px;
+    transition: 1s;
+    text-align: center;
+}
+
+img:hover {
+    transform: scale(1.3);
+}
